@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "label": "day01",
+      "load": false
+    },
+    {
+      "label": "day02",
+      "load": false
+    },
+    {
+      "label": "day03",
+      "load": false
+    }
+  ]
+}
