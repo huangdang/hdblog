@@ -12,6 +12,10 @@
     {
       "label": "day03",
       "load": false
+    },
+    {
+      "label": "day04",
+      "load": false
     }
   ]
 }
