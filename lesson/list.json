@@ -3,19 +3,28 @@
   "data": [
     {
       "label": "day01",
-      "load": false
+      "load": false,
+      "tip": "alert,console.log,document.write(),JavaScript书写位置"
     },
     {
       "label": "day02",
-      "load": false
+      "load": false,
+      "tip": "变量，字面量"
     },
     {
       "label": "day03",
-      "load": false
+      "load": false,
+      "tip": "标识符,数据类型"
     },
     {
       "label": "day04",
-      "load": false
+      "load": false,
+      "tip": "null,undefined,boolean"
+    },
+    {
+      "label": "day05",
+      "load": false,
+      "tip": "隐式类型转换,数据类型强制转换"
     }
   ]
 }
