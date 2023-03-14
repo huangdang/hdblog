@@ -25,6 +25,11 @@
       "label": "day05",
       "load": false,
       "tip": "隐式类型转换,数据类型强制转换"
+    },
+    {
+      "label": "day06",
+      "load": false,
+      "tip": "类型强制转换之Boolean,运算符"
     }
   ]
 }
