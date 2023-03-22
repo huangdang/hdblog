@@ -30,6 +30,36 @@
       "label": "day06",
       "load": false,
       "tip": "类型强制转换之Boolean,运算符"
+    },
+    {
+      "label": "day07",
+      "load": false,
+      "tip": "一元运算符,自增自减"
+    },
+    {
+      "label": "day08",
+      "load": false,
+      "tip": "赋值运算,逻辑运算符,三元运算符"
+    },
+    {
+      "label": "day09",
+      "load": false,
+      "tip": "比较运算符,运算符优先级"
+    },
+    {
+      "label": "day10",
+      "load": false,
+      "tip": "练习,语句块,if语句"
+    },
+    {
+      "label": "day11",
+      "load": false,
+      "tip": "if...else,if...else嵌套"
+    },
+    {
+      "label": "day12",
+      "load": false,
+      "tip": "if需要注意的地方,while循环语句"
     }
   ]
 }
