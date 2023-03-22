@@ -60,6 +60,11 @@
       "label": "day12",
       "load": false,
       "tip": "if需要注意的地方,while循环语句"
+    },
+    {
+      "label": "作业示例",
+      "load": false,
+      "tip": ""
     }
   ]
 }
