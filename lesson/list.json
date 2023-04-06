@@ -65,6 +65,31 @@
       "label": "作业示例",
       "load": false,
       "tip": ""
+    },
+    {
+      "label": "day13",
+      "load": false,
+      "tip": "while,do...while,练习"
+    },
+    {
+      "label": "day14",
+      "load": false,
+      "tip": "for循环,练习"
+    },
+    {
+      "label": "day15",
+      "load": false,
+      "tip": "for循环嵌套"
+    },
+    {
+      "label": "day16",
+      "load": false,
+      "tip": "乘法表,Object对象,Object对象之属性值"
+    },
+    {
+      "label": "day17",
+      "load": false,
+      "tip": "Object对象属性名,基本数据类型和引用类型的区别"
     }
   ]
 }
