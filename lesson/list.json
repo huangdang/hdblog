@@ -64,7 +64,7 @@
     {
       "label": "作业示例",
       "load": false,
-      "tip": ""
+      "tip": "作业示例"
     },
     {
       "label": "day13",
@@ -90,6 +90,21 @@
       "label": "day17",
       "load": false,
       "tip": "Object对象属性名,基本数据类型和引用类型的区别"
+    },
+    {
+      "label": "day18",
+      "load": false,
+      "tip": "对象字面量,代码格式,数组对象"
+    },
+    {
+      "label": "day19",
+      "load": false,
+      "tip": "Array数组对象,数组的方法,数组小练习"
+    },
+    {
+      "label": "手册",
+      "load": false,
+      "tip": "JavaScript手册"
     }
   ]
 }
