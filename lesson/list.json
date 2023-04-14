@@ -62,7 +62,7 @@
       "tip": "if需要注意的地方,while循环语句"
     },
     {
-      "label": "作业示例",
+      "label": "0322作业",
       "load": false,
       "tip": "作业示例"
     },
@@ -102,9 +102,9 @@
       "tip": "Array数组对象,数组的方法,数组小练习"
     },
     {
-      "label": "手册",
+      "label": "JavaScript-CHM",
       "load": false,
-      "tip": "JavaScript手册"
+      "tip": "JavaScript参考手册"
     }
   ]
 }
