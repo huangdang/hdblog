@@ -130,6 +130,11 @@
       "label": "day24",
       "load": false,
       "tip": "this指向,原型对象prototype"
+    },
+    {
+      "label": "day25",
+      "load": false,
+      "tip": "内置对象Date,内置对象Date的方法"
     }
   ]
 }
