@@ -105,6 +105,31 @@
       "label": "JavaScript-CHM",
       "load": false,
       "tip": "JavaScript参考手册"
+    },
+    {
+      "label": "day20",
+      "load": false,
+      "tip": "函数,函数的参数"
+    },
+    {
+      "label": "day21",
+      "load": false,
+      "tip": "函数复习,函数返回值"
+    },
+    {
+      "label": "day22",
+      "load": false,
+      "tip": "对象的方法,对象方法的参数,函数中的return、break、continue,立即执行函数"
+    },
+    {
+      "label": "day23",
+      "load": false,
+      "tip": "构造函数,作用域,块级作用域练习"
+    },
+    {
+      "label": "day24",
+      "load": false,
+      "tip": "this指向,原型对象prototype"
     }
   ]
 }
