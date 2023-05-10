@@ -135,6 +135,26 @@
       "label": "day25",
       "load": false,
       "tip": "内置对象Date,内置对象Date的方法"
+    },
+    {
+      "label": "w3school",
+      "load": false,
+      "tip": "w3school离线手册"
+    },
+    {
+      "label": "day26",
+      "load": false,
+      "tip": "正则表达式"
+    },
+    {
+      "label": "day27",
+      "load": false,
+      "tip": "正则表达式,支持正则表达式的方法,校验手机和邮箱正则表达式"
+    },
+    {
+      "label": "day28",
+      "load": false,
+      "tip": "DOM对象,通过id、class、标签和name获取元素"
     }
   ]
 }
