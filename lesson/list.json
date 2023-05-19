@@ -155,6 +155,21 @@
       "label": "day28",
       "load": false,
       "tip": "DOM对象,通过id、class、标签和name获取元素"
+    },
+    {
+      "label": "day29",
+      "load": false,
+      "tip": "onload,onclick,dom查询练习"
+    },
+    {
+      "label": "day30",
+      "load": false,
+      "tip": "创建元素: createElemen,插入元素: appendChild,改变html样式"
+    },
+    {
+      "label": "day31",
+      "load": false,
+      "tip": "改变内联样式:style和添加class,练习轮播图"
     }
   ]
 }
