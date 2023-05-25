@@ -170,6 +170,21 @@
       "label": "day31",
       "load": false,
       "tip": "改变内联样式:style和添加class,练习轮播图"
+    },
+    {
+      "label": "day32",
+      "load": false,
+      "tip": "DOM复选框例子、修改tabel样式"
+    },
+    {
+      "label": "day33",
+      "load": false,
+      "tip": "scroll滚动事件，scroll事件例子"
+    },
+    {
+      "label": "day34",
+      "load": false,
+      "tip": "scroll滚动触底加载数据，鼠标跟随，鼠标拖拽，DOM知识总结"
     }
   ]
 }
