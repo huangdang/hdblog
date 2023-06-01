@@ -185,6 +185,21 @@
       "label": "day34",
       "load": false,
       "tip": "scroll滚动触底加载数据，鼠标跟随，鼠标拖拽，DOM知识总结"
+    },
+    {
+      "label": "day35",
+      "load": false,
+      "tip": "BOM对象，hisstory对象，location对象"
+    },
+    {
+      "label": "day36",
+      "load": false,
+      "tip": "定时器(setTimeout,setInterval)，同步和异步，字符串模板，定时轮播图片"
+    },
+    {
+      "label": "day37",
+      "load": false,
+      "tip": "本地存储，JSON"
     }
   ]
 }
