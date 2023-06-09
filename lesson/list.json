@@ -200,6 +200,11 @@
       "label": "day37",
       "load": false,
       "tip": "本地存储，JSON"
+    },
+    {
+      "label": "day38",
+      "load": false,
+      "tip": "随机点名,DOM总结,Math对象,screen对象,js基础总结"
     }
   ]
 }
